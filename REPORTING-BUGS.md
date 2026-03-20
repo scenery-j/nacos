@@ -1,5 +1,6 @@
 <!--TRANSLATION_LINKS_START-->
-> 📖 **其他语言版本**：[English (en)](translations/en/REPORTING-BUGS.md) | [Español (es)](translations/es/REPORTING-BUGS.md) | [日本語 (ja)](translations/ja/REPORTING-BUGS.md) | [한국어 (ko)](translations/ko/REPORTING-BUGS.md)
+#### Supported by [GitHub Doc Translation](https://github.com/scenery-j/GitHub-Doc-Translation)
+> 📖 **其他语言版本**：[English (en)](translations/en/REPORTING-BUGS.md) | [Español (es)](translations/es/REPORTING-BUGS.md) | [Français (fr)](translations/fr/REPORTING-BUGS.md) | [日本語 (ja)](translations/ja/REPORTING-BUGS.md) | [한국어 (ko)](translations/ko/REPORTING-BUGS.md)
 <!--TRANSLATION_LINKS_END-->
 
 # How to report bugs
