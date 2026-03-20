@@ -1,3 +1,7 @@
+<!--TRANSLATION_LINKS_START-->
+> 📖 **其他语言版本**：[English (en)](translations/en/REPORTING-BUGS.md) | [Español (es)](translations/es/REPORTING-BUGS.md) | [日本語 (ja)](translations/ja/REPORTING-BUGS.md) | [한국어 (ko)](translations/ko/REPORTING-BUGS.md)
+<!--TRANSLATION_LINKS_END-->
+
 # How to report bugs
 
 If any part of the Nacos project has bugs or documentation mistakes, please let us know by [opening an issue][Nacos-issue]. We treat bugs and mistakes very seriously and believe no issue is too small, anyone is implement. Before creating a bug report, please check that an issue reporting the same problem does not already exist.
